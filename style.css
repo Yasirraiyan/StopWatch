@@ -1,0 +1,27 @@
+body{
+    padding: 25px;
+    background-color: #250057;
+  }
+  .title {
+      color: #5C6AC4;
+  }
+  h1
+  {
+    text-align: center;
+    color: white;
+  }
+  
+  p
+  {
+    color: white;
+    text-align: center;
+  }
+  button
+  {
+    align-items: center;
+  }
+  div
+  {
+    color:white;
+    text-align: center;
+  }
